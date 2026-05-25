@@ -29671,5 +29671,12 @@
     "author": "pan4ratte",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Allows you to post notes directly to Telegram channels and groups with different presets and advanced posting settings.",
     "repo": "pan4ratte/obsidian-publish-to-telegram"
+  },
+  {
+  "id": "table-hide",
+  "name": "Table Hide",
+  "author": "xFrancoder",
+  "description": "Hide and reveal markdown table cells for active recall and language learning.",
+  "repo": "xFrancoder/Table-hide"
   }
 ]
